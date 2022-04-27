@@ -16,7 +16,7 @@
 - ## การ run program
     1. เปิดโปรแกรม PyCharm
     2. ลร้างโปรเจคใหม่ พร้อมไฟล์ .py
-    3. copy code จาก [https://gist.github.com/Nattaya-Sil/a64980dadb9d6e62bd3f527f73b58d09](https://gist.github.com/Nattaya-Sil/a64980dadb9d6e62bd3f527f73b58d09)
+    3. copy code จาก [https://github.com/Nattaya-Sil/Devpool.git](https://github.com/Nattaya-Sil/Devpool.git)
   ลงในไฟล์ .py แล้วคลิกขวา > กด run
     4. โปรแกรมจะแสดงหน้าต่างแสดงผลให้กรอกชื่อนักเรียนได้เลยจ้าาา
 
